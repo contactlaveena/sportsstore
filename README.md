@@ -1,2 +1,3 @@
 # sportsstore
-This is a sports store application which fetches data from deployd and displays on responsive web
+Reference from: Apress Pro Angular JS Book
+Application developed using Angular JS, it create an online product catalog that customers can browse by category and page
